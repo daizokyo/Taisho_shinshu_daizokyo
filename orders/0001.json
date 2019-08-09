@@ -2,5 +2,17 @@
   {
     "chapter_id": "00010001",
     "chapter_url": "https://raw.githubusercontent.com/daizokyo/Taisho_shinshu_daizokyo/master/chapters/00010001.json"
+  },
+  {
+    "chapter_id": "00010002",
+    "chapter_url": "https://raw.githubusercontent.com/daizokyo/Taisho_shinshu_daizokyo/master/chapters/00010002.json"
+  },
+  {
+    "chapter_id": "00010003",
+    "chapter_url": "https://raw.githubusercontent.com/daizokyo/Taisho_shinshu_daizokyo/master/chapters/00010003.json"
+  },
+  {
+    "chapter_id": "00010004",
+    "chapter_url": "https://raw.githubusercontent.com/daizokyo/Taisho_shinshu_daizokyo/master/chapters/00010004.json"
   }
 ]
