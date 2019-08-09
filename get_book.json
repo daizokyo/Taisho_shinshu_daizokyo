@@ -1,10 +1,10 @@
 [
   {
     "volume_id": "001",
-    "volume_url": "https://raw.githubusercontent.com/daizokyo/Taisho_shinshu_daizokyo/master/volume/0001.json"
+    "volume_url": "https://raw.githubusercontent.com/daizokyo/Taisho_shinshu_daizokyo/master/volumes/0001.json"
   },
   {
     "volume_id": "002",
-    "volume_url": "https://raw.githubusercontent.com/daizokyo/Taisho_shinshu_daizokyo/master/volume/0002.json"
+    "volume_url": "https://raw.githubusercontent.com/daizokyo/Taisho_shinshu_daizokyo/master/volumes/0002.json"
   }
 ]
