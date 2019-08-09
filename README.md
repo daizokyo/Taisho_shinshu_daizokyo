@@ -44,8 +44,7 @@
 * 釋經論部
   * 025　
 * 釋經論部、毘曇部
-
-　T26　
+  * 026　
 * 毘曇部
 
 　T27　　T28　　T29　
@@ -88,3 +87,13 @@
 * 古逸部、疑似部
 
 　T85　
+
+## 使用方式
+
+透過 https://raw.githubusercontent.com/daizokyo/Taisho_shinshu_daizokyo/master/get_book.json 取得所有冊的編號與網址。編號格式為四碼數字
+
+假設要取得第一冊，可以透過 https://raw.githubusercontent.com/daizokyo/Taisho_shinshu_daizokyo/master/volumes/0001.json 取得該冊內所有經文資訊。經文編號格式為四碼數字。
+
+假設要取得長阿含經（0001），可以透過 https://raw.githubusercontent.com/daizokyo/Taisho_shinshu_daizokyo/master/orders/0001.json 取得章節資訊
+
+章節編號為八碼數字，每個章節內包含標題與內容。
